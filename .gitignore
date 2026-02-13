@@ -14,8 +14,7 @@ __pycache__/
 # Streamlit cache
 .streamlit/
 
-# Output files (optional)
-final_metrics.csv
+
 
 # OS files
 .DS_Store
