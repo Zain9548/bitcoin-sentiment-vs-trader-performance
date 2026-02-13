@@ -1,5 +1,6 @@
 # Hyperliquid Trader Behavior vs Bitcoin Fear/Greed Sentiment Analysis
 demo images(https://github.com/Zain9548/bitcoin-sentiment-vs-trader-performance/tree/main/demo%20image)
+demo video (https://drive.google.com/file/d/1NTtEby9_-yfoYCh9HUZzL7OJHwKqz2YZ/view?usp=drive_link)
 
 ## Project Overview
 This project analyzes how **Bitcoin market sentiment (Fear/Greed)** impacts **trader behavior and performance** on Hyperliquid.
